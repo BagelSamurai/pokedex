@@ -1,0 +1,10 @@
+.pokelist {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+.loading {
+  font-size: 60px;
+  color: #222222;
+  margin: 80px 0px 0px 100px;
+}
